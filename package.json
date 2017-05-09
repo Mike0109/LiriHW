@@ -1,0 +1,23 @@
+{
+  "name": "nodehomework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mike0109/LiriHW.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mike0109/LiriHW/issues"
+  },
+  "homepage": "https://github.com/Mike0109/LiriHW#readme",
+  "dependencies": {
+    "inquirer": "^3.0.6",
+    "request": "^2.81.0"
+  }
+}
